@@ -16,6 +16,6 @@ public class MainActivity2 extends AppCompatActivity {
 
         textView = findViewById(R.id.textView);
 
-        textView.setText("Olá " + getIntent().getStringExtra("name"));
+        textView.setText("Olá " + getIntent().getStringExtra("name") + "!");
     }
 }
