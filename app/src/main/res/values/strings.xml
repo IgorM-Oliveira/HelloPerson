@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelloPerson</string>
+    <string name="informe_um_nome">Informe um nome</string>
+    <string name="enviar">Enviar</string>
 </resources>
